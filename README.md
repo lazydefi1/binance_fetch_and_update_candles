@@ -1,4 +1,4 @@
-# binance-csv-candles
+# binance_fetch_and_update_candles
 
 Fetch Binance BTC, ETH and USDT market data and create/update `csv` candle files.
 Files are stored in `./data/binance/{timeframe}`. Timeframe can be anything like `1d`, `1h`, etc.
